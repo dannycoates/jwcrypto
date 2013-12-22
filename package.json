@@ -13,7 +13,7 @@
     "walk": "2.2.1"
   },
   "optionalDependencies": {
-    "bigint": "0.4.2"
+    "bigint": "git://github.com/dannycoates/node-bigint.git#9ae062b9"
   },
   "scripts": {
     "postinstall": "node ./scripts/bundle.js",
